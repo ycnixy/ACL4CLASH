@@ -1,4 +1,5 @@
 # https://raw.githubusercontent.com/heinu123/bilibili-clash/main/bilibili.yaml
+# 仅代理ip归属地api,upos等视频cdn均不会代理
 DOMAIN,data.bilivideo.com
 DOMAIN,grpc.biliapi.net
 DOMAIN,new-service.biliapi.net
